@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aexeron
-- 👀 I’m interested in HTML programming
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in JavaScript programming
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me discord : nottimon
 - 😄 Pronouns: He/himm
